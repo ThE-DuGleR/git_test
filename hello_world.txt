@@ -1,1 +1,1 @@
-"Its a beautiful day today"
+"Its not a beautiful day today"
